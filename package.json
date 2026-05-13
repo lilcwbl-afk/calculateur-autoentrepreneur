@@ -12,7 +12,8 @@
     "@vitejs/plugin-react": "latest",
     "vite": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-router-dom": "^6.30.1"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.17",
